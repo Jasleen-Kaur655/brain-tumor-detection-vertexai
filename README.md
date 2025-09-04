@@ -8,8 +8,6 @@ This project detects brain tumors from MRI scans using a trained CNN and Google 
 - Built with Streamlit
 
 ## Setup
-
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
